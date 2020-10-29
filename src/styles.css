@@ -1,0 +1,28 @@
+.prof-container {
+    background-color: aquamarine;
+    width: 33.3%;
+    height: 250px;
+    line-height: 100px;
+}
+
+.int-container {
+    background-color: yellowgreen;
+    width: 33.3%;
+    height: 250px;
+    line-height: 35px;
+}
+
+.learn-container{
+    background-color: palevioletred;
+    width: 33.3%;
+    height: 250px;
+    line-height: 50px;
+}
+
+.exp-container {
+    background-color: purple;
+    color: white;
+    width: 33.3%;
+    height: 250px;
+    line-height: 90px;
+}
